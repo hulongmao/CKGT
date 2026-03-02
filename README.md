@@ -1,5 +1,5 @@
 # 1. Title
-Collaborative Knowledge Graph and Text Semantics for Recommendation
+Collaborative User Knowledge Graph and Fine-Tuned Textual Semantics for Enhanced Recommendation
 
 # 2.Dataset
 MOOCCubeX: https://github.com/Br-Hmedna/MOOCCubeX
